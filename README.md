@@ -77,6 +77,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ninja3031/Ninja3031/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <!-- ================= CONNECT ================= -->
 ## 🤝 Let's Connect
 
@@ -96,11 +100,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ninja3031/Ninja3031/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 <!-- ================= FOOTER ================= -->
 <p align="center">
   ✨ "Code. Build. Learn. Repeat." ✨
